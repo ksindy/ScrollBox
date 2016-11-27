@@ -2,11 +2,20 @@
 
 2- Navigate to repository in terminal.
 
-3- Run script by typing the following comand in terminal:
+eg cd ~/Downloads/ScrollBox-master/
+
+3- Run script by typing the following command in terminal:
 
 ./run_scroll_box.sh
 
 4- Press control+c to exit program.
+
+
+**Notes**
+
+You will most likely need to install the graphics module. You can do this by running the following command:
+
+pip install --user http://bit.ly/csc161graphics
 
 
 References:
