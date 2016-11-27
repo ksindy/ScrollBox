@@ -1,3 +1,5 @@
+**Instructions to Run Program.**
+
 * Download and unzip this repository. 
 
 * Navigate to repository in your terminal.
