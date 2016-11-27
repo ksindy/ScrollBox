@@ -1,18 +1,18 @@
-1. Download and unzip this repository. 
+* Download and unzip this repository. 
 
-2. Navigate to repository in terminal.
+* Navigate to repository in terminal.
 
 ~~~
 cd ~/Downloads/ScrollBox-master/
 ~~~
 
-3. Run script by typing the following command in terminal:
+* Run script by typing the following command in terminal:
 
 ~~~
 ./run_scroll_box.sh
 ~~~
 
-4. Press control+c to exit program.
+* Press control+c to exit program.
 
 
 **Notes**
