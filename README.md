@@ -1,12 +1,12 @@
 * Download and unzip this repository. 
 
-* Navigate to repository in terminal.
+* Navigate to repository in your terminal.
 
 ~~~
 cd ~/Downloads/ScrollBox-master/
 ~~~
 
-* Run script by typing the following command in terminal:
+* Run script by typing the following command:
 
 ~~~
 ./run_scroll_box.sh
