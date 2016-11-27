@@ -18,6 +18,7 @@ You will most likely need to install the graphics module. You can do this by run
 pip install --user http://bit.ly/csc161graphics
 
 
-References:
+**References:**
+
 http://cs.umw.edu/~finlayson/class/fall12/cpsc110/notes/05-graphics.html
 http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf 
