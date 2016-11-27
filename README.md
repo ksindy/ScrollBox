@@ -3,7 +3,7 @@
 2. Navigate to repository in terminal.
 
 ~~~
-eg cd ~/Downloads/ScrollBox-master/
+cd ~/Downloads/ScrollBox-master/
 ~~~
 
 3. Run script by typing the following command in terminal:
