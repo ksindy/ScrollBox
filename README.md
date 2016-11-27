@@ -1,14 +1,14 @@
-1- Download this repository locally. 
+1. Download this repository locally. 
 
-2- Navigate to repository in terminal.
+2. Navigate to repository in terminal.
 
 eg cd ~/Downloads/ScrollBox-master/
 
-3- Run script by typing the following command in terminal:
+3. Run script by typing the following command in terminal:
 
 ./run_scroll_box.sh
 
-4- Press control+c to exit program.
+4. Press control+c to exit program.
 
 
 **Notes**
