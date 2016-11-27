@@ -19,8 +19,9 @@ cd ~/Downloads/ScrollBox-master/
 
 You will most likely need to install the graphics module. You can do this by running the following command:
 
+~~~
 pip install --user http://bit.ly/csc161graphics
-
+~~~
 
 **References:**
 
