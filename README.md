@@ -1,4 +1,4 @@
-**Instructions to Run Program.**
+**Instructions**
 
 * Download and unzip this repository. 
 
