@@ -1,4 +1,4 @@
-1. Download this repository locally. 
+1. Download and unzip this repository. 
 
 2. Navigate to repository in terminal.
 
