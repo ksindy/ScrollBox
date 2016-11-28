@@ -1,3 +1,13 @@
+from graphics import *
+
+def main():
+    win = GraphWin("My Circle", 100, 100)
+    c = Circle(Point(50,50), 10)
+    c.draw(win)
+    win.getMouse() # Pause to view result
+    win.close()    # Close window when done
+
+main()
 
 # Version 4.2 5/26/2011
 #     * Modified Image to allow multiple undraws like other GraphicsObjects
