@@ -29,3 +29,6 @@ pip install --user http://bit.ly/csc161graphics
 
 http://cs.umw.edu/~finlayson/class/fall12/cpsc110/notes/05-graphics.html
 http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf 
+
+
+http://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/
