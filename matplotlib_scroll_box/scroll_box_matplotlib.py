@@ -25,5 +25,4 @@ anim = animation.FuncAnimation(fig, animate,
                                interval=50,
                                blit=True)
 
-HTML(anim.to_html5_video())
-
+plt.show()
