@@ -1,5 +1,4 @@
-
-#import dependencies 
+#import dependencies
 import numpy as np
 from matplotlib import animation, rc
 import matplotlib.pyplot as plt
@@ -18,7 +17,7 @@ patch = patches.Rectangle((0, 0), 0, 0,fc='y')
 
 def init():
     ax.add_patch(patch)
-    return patch, 
+    return patch,
 
 
 def animate(i):
