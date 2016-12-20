@@ -7,7 +7,7 @@ Graphics is a more straightforward program but limited in color and movement of 
 
 Matplotlib is a bit more complicated but it is much more popular and has a lot of options when it comes to colors, shapes, and movements of the objects.
 
-**Instructions for Running Graphics Python File.** 
+##Instructions for Running Graphics Python File. 
 
 * Download and unzip this repository.
 
@@ -42,7 +42,7 @@ http://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/
 https://nickcharlton.net/posts/drawing-animating-shapes-matplotlib.html
 https://www.ncbi.nlm.nih.gov/pubmed/15557474
 
-**Instructions for Running Mathplotlib Python File**
+## Instructions for Running Mathplotlib Python File
 
 * Download and unzip this repository.
 
