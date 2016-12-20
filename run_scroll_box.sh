@@ -1,1 +1,0 @@
-python scrolling_rectangles_graphics.py 
