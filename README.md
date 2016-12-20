@@ -1,7 +1,7 @@
 # ScrollBox
 Scrolling rectangles of various depths and colors
 
-I have used to programs to accomlish the same task. Each directory has it's own README file. 
+I used two programs in order to accomlish the same task. Each directory has it's own README file. 
 
 Graphics is a more straightforward program but limited in color and movement of objects.
 
